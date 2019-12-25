@@ -35,7 +35,7 @@
         enumerable: true,
         configurable: true,
         writable: true
-      });
+      }); 
     } else {
       obj[key] = value;
     }
